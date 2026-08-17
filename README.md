@@ -1,4 +1,4 @@
-# 🌾 Crop Yield Prediction — India (State/District Level)
+# Crop Yield Prediction — India (State/District Level)
 
 🔗 **Live App:** https://crop-yield-prediction-2dc8zwkgwdiotjxqbqu698.streamlit.app/
 
