@@ -77,7 +77,11 @@ Push this repo to GitHub, then deploy for free on [Streamlit Community Cloud](ht
 - **No soil/irrigation data.** Would help disambiguate districts with similar names/climates but different farming infrastructure.
 
 ---
+
 **Submitted by:** Mohammed Twaha
+
 **Role:** Data Science Intern, Zephyr
+
 **GitHub:** https://github.com/Mohammed-Twaha
+
 **LinkedIn:** https://linkedin.com/in/mohammed-twaha-010320203
