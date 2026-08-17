@@ -1,5 +1,5 @@
 # 🌾 Crop Yield Prediction — India (State/District Level)
-
+🔗 **Live App:** https://crop-yield-prediction-2dc8zwkgwdiotjxqbqu698.streamlit.app/
 A data science portfolio project predicting agricultural crop yield (tonnes/hectare) across Indian states and districts, using historical crop production data from 1997–2020.
 
 ## Problem Statement
